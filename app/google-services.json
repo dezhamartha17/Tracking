@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072650585046",
+    "firebase_url": "https://coordinat-729f1.firebaseio.com",
+    "project_id": "coordinat-729f1",
+    "storage_bucket": "coordinat-729f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072650585046:android:cee7da75432df907",
+        "android_client_info": {
+          "package_name": "com.example.virtix.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072650585046-dr8kskab2ko59djo7p81uoetthb60o0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtix.tracking",
+            "certificate_hash": "9df77cc1f1ef32714cf65de887dc6a5bbc077924"
+          }
+        },
+        {
+          "client_id": "1072650585046-b1sbs1514h9n381suhle8pe475rv7810.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHFWYjpHEd2pZT_DT_QXWIF1TKagJykp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072650585046-b1sbs1514h9n381suhle8pe475rv7810.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
